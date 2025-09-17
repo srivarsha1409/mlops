@@ -1,0 +1,10 @@
+artifact_location: file:///c:/AI%20workforce/mlops/mlruns/444474824850399150/models/m-519a7aed14414554b30de9219d55886a/artifacts
+creation_timestamp: 1757943635541
+experiment_id: '444474824850399150'
+last_updated_timestamp: 1757943638606
+model_id: m-519a7aed14414554b30de9219d55886a
+model_type: null
+name: Agglomerative_model
+source_run_id: c5c7c006fda04694bab17b2ce8ee3fa3
+status: 2
+status_message: null

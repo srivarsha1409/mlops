@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/931415411557385466/44ca06347df5400ba5c11b864b6cffef/artifacts
+deleted_time: 1757953279107
+end_time: 1757953195975
+entry_point_name: ''
+experiment_id: '931415411557385466'
+lifecycle_stage: deleted
+run_id: 44ca06347df5400ba5c11b864b6cffef
+run_name: Preprocessing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757953193285
+status: 3
+tags: []
+user_id: HP

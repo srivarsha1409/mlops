@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/931415411557385466/8bc51bf56a8d48f4a2cc70b68f427663/artifacts
+deleted_time: 1757953279088
+end_time: 1757952982056
+entry_point_name: ''
+experiment_id: '931415411557385466'
+lifecycle_stage: deleted
+run_id: 8bc51bf56a8d48f4a2cc70b68f427663
+run_name: DBSCAN_Clustering
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757952979193
+status: 3
+tags: []
+user_id: HP

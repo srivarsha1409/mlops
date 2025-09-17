@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/931415411557385466/8a3635d252ef4bdeb25eec50cc16e5a0/artifacts
+deleted_time: 1757953279114
+end_time: 1757953196000
+entry_point_name: ''
+experiment_id: '931415411557385466'
+lifecycle_stage: deleted
+run_id: 8a3635d252ef4bdeb25eec50cc16e5a0
+run_name: KMeans_Clustering
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757953195983
+status: 4
+tags: []
+user_id: HP

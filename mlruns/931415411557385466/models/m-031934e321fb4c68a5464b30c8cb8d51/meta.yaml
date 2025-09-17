@@ -1,0 +1,10 @@
+artifact_location: file:///c:/AI%20workforce/mlops/mlruns/931415411557385466/models/m-031934e321fb4c68a5464b30c8cb8d51/artifacts
+creation_timestamp: 1757952607725
+experiment_id: '931415411557385466'
+last_updated_timestamp: 1757952611208
+model_id: m-031934e321fb4c68a5464b30c8cb8d51
+model_type: null
+name: scaler_model
+source_run_id: 4b46cc45598a47478b507ed37faea75a
+status: 2
+status_message: null

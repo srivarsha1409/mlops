@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/c/mlruns/134690459232591300/d51dfd64ed604a0bb5ae1d6bd51c759e/artifacts
+end_time: 1757954996754
+entry_point_name: ''
+experiment_id: '134690459232591300'
+lifecycle_stage: active
+run_id: d51dfd64ed604a0bb5ae1d6bd51c759e
+run_name: visualization
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757954995841
+status: 3
+tags: []
+user_id: HP

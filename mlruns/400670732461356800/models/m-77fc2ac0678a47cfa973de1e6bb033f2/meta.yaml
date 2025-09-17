@@ -1,0 +1,10 @@
+artifact_location: file:///c:/AI%20workforce/mlops/mlruns/400670732461356800/models/m-77fc2ac0678a47cfa973de1e6bb033f2/artifacts
+creation_timestamp: 1757944141990
+experiment_id: '400670732461356800'
+last_updated_timestamp: 1757944144502
+model_id: m-77fc2ac0678a47cfa973de1e6bb033f2
+model_type: null
+name: DBSCAN_model
+source_run_id: 13f774a478f54dc5ba0331c9d1678af5
+status: 2
+status_message: null

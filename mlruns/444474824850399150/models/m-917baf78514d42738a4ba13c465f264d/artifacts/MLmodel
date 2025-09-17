@@ -1,0 +1,14 @@
+artifact_path: file:///c:/AI%20workforce/mlops/mlruns/444474824850399150/models/m-917baf78514d42738a4ba13c465f264d/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-917baf78514d42738a4ba13c465f264d
+model_size_bytes: 8581
+model_uuid: m-917baf78514d42738a4ba13c465f264d
+prompts: null
+run_id: 197c302fada44bf8bdc7967e91286a44
+utc_time_created: '2025-09-15 13:42:58.355374'

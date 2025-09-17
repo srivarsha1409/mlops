@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/378605490786518633/4a2ad58f706c4f0ea44ac8072520a808/artifacts
+deleted_time: 1757984558748
+end_time: 1757983847686
+entry_point_name: ''
+experiment_id: '378605490786518633'
+lifecycle_stage: deleted
+run_id: 4a2ad58f706c4f0ea44ac8072520a808
+run_name: Gradio_App
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757983847064
+status: 3
+tags: []
+user_id: HP

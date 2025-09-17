@@ -1,0 +1,10 @@
+artifact_location: file:///c:/AI%20workforce/mlops/mlruns/444474824850399150/models/m-de082d0bee2f49b58a69e4d9650b6239/artifacts
+creation_timestamp: 1757943772388
+experiment_id: '444474824850399150'
+last_updated_timestamp: 1757943775148
+model_id: m-de082d0bee2f49b58a69e4d9650b6239
+model_type: null
+name: KMeans_model
+source_run_id: 197c302fada44bf8bdc7967e91286a44
+status: 2
+status_message: null

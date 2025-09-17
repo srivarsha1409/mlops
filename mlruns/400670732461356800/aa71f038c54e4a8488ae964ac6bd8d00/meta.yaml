@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/400670732461356800/aa71f038c54e4a8488ae964ac6bd8d00/artifacts
+deleted_time: 1757944853530
+end_time: null
+entry_point_name: ''
+experiment_id: '400670732461356800'
+lifecycle_stage: deleted
+run_id: aa71f038c54e4a8488ae964ac6bd8d00
+run_name: hilarious-loon-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944135948
+status: 1
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/400670732461356800/64f5374cffc14b4bb5e0b2c0590c5375/artifacts
+deleted_time: 1757944938374
+end_time: 1757944463054
+entry_point_name: ''
+experiment_id: '400670732461356800'
+lifecycle_stage: deleted
+run_id: 64f5374cffc14b4bb5e0b2c0590c5375
+run_name: Clustering_Agglomerative
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757944460130
+status: 3
+tags: []
+user_id: HP

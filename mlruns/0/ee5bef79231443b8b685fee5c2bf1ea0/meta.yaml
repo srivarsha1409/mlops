@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/AI%20workforce/mlops/mlruns/0/ee5bef79231443b8b685fee5c2bf1ea0/artifacts
+end_time: 1757942560645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee5bef79231443b8b685fee5c2bf1ea0
+run_name: DBSCAN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757942560467
+status: 3
+tags: []
+user_id: HP
